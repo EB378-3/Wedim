@@ -248,8 +248,8 @@ const AboutUs = () => {
                     />
                     <Typography variant="h6">E. A. Benni </Typography>
                     <Typography variant="body2" sx={{ color: theme.palette.text.secondary }}>
-                      CEO & Founder
-                        <br /> +358442413840
+                      Member
+                        <br /> +3580000000
                     </Typography>
                   </Box>
                 </motion.div>
@@ -266,12 +266,33 @@ const AboutUs = () => {
                   <Box sx={{ textAlign: "center" }}>
                     <Avatar
                       src="/"
-                      alt="NB"
+                      alt="Jiya"
                       sx={{ width: 120, height: 120, margin: "auto", mb: 2 }}
                     />
-                    <Typography variant="h6">N. Benni</Typography>
+                    <Typography variant="h6">Jiya</Typography>
                     <Typography variant="body2" sx={{ color: theme.palette.text.secondary }}>
-                      Delivery Lead <br/> +358401677836
+                      Member <br/> +3584888888
+                    </Typography>
+                  </Box>
+                </motion.div>
+              </Grid>
+              <Grid item xs={6} sm={4} md={3}>
+                <motion.div
+                  initial="hidden"
+                  whileInView="visible"
+                  viewport={{ once: true }}
+                  variants={fadeIn}
+                  transition={{ delay: 0.4 }}
+                >
+                  <Box sx={{ textAlign: "center" }}>
+                    <Avatar
+                      src="/"
+                      alt="NN"
+                      sx={{ width: 120, height: 120, margin: "auto", mb: 2 }}
+                    />
+                    <Typography variant="h6">Naysa </Typography>
+                    <Typography variant="body2" sx={{ color: theme.palette.text.secondary }}>
+                      Member <br/> +3589999999
                     </Typography>
                   </Box>
                 </motion.div>

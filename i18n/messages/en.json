@@ -3,27 +3,40 @@
     "navLink1": "Is it really important?",
     "navLink2": "Contact",
     "navLink3": "Web Examples",
-    "navLink4": "Book a Meeting"
+    "navLink4": "About Us"
   },
   "HomePage": {
-    "simple": "Artificial Intelligence",
-    "elegant": "Born Of",
-    "effective": "Blood",
-    "HeroSubTitle": "Made of blood and sweat, AI disables us from thinking from ourselves, it comforts out laziness and makes us dependant on it.",
-    "CTA": "Learn More",
-    "Contact Us": "Contact Us",
-    "disrupt": "Here's what happens in the AI industry...",
-    "StepOne": "Step 1: Select A Brand For Your Business",
-    "StepTwo": "Step 2: Get Yourself A Effective Website/App",
-    "StepThree": "Step 3: Get Infront Of Your Customers With Powerful SEO",
-    "StepOneText": "If you haven't already, we will help you select a brand that resonates with your business and your customers.",
-    "StepTwoText": "We will design and develop a website that is tailored to your business and your customers.",
-    "StepThreeText": "We will help you get infront of your customers with powerful SEO and digital marketing strategies.",
-    "Call-To-Action": "Get Online & Start Winning Today",
-    "Call-To-Action-Sub": "Customers are searching for you right now. Let’s make sure they find you.",
-    "Book Now": "CLICK HERE TO START!",
-    "Call-To-Action-Note": "Find out more about us",
-    "why": "> Why Do I Need A Website? <"
+      "hero": {
+        "title": "Mind over AI",
+        "subtitle": "The Value of Human Thinking",
+        "description": "The aim of this campaign is to promote human thinking and avoid overreliance on AI.",
+        "imageAlt": "Abstract representation of AI"
+      },
+      "grid": {
+        "first": {
+          "text1": "In a world increasingly dominated by machines, the human mind remains our greatest asset. Embrace creativity and critical thinking.",
+          "text2": "Join us in reclaiming our intellectual future. Support a movement that values human ingenuity and the power of thought.",
+          "imageAlt": "Campaign Highlight"
+        },
+        "second": {
+          "text": "Join us in reclaiming our intellectual future. Support a movement that values human ingenuity and the power of thought.",
+          "imageAlt": "Campaign Highlight"
+        }
+      },
+      "content": {
+        "paragraph1": "The world is getting taken over by Artificial Intelligence. This must be stopped. Humanity is losing its ability to think—faster than we realize. Take a stand. Limit AI usage. Don't let AI take over your brain.",
+        "paper1": {
+          "alt": "Robot illustration",
+          "caption": "Robots replacing human roles."
+        },
+        "paragraph2": "Every day, AI replaces jobs once held by humans. By 2025, 2 million factory jobs could vanish. By 2030, 375 million people might need to switch careers because of AI advancements. Seventy-five percent of CEOs say AI will change their businesses—many jobs will disappear.",
+        "paper2": {
+          "alt": "Human vs. AI",
+          "caption": "Humans reclaiming their critical thinking skills."
+        }
+      
+    }
+    
   },
   "Contact": {
     "title": "Contact Us",
@@ -37,10 +50,10 @@
     "title": "Testimonials"
   },
   "Footer": {
-    "aboutText": "Working with entreprenuers to create beautiful web experiances for clients.",
+    "aboutText": "Waking people up to the power of their own minds.",
     "navigation": "Navigation",
     "navLink1": "Book a Meeting",
-    "navLink2": "Testimonials",
+    "navLink2": "Is it really important?",
     "navLink3": "Contact",
     "navLink4": "Web Examples",
     "login": "Login",
@@ -91,21 +104,21 @@
     "address": "Address",
     "role": "Role"
   },
-  "AboutUs":{
-    "title": "About Us",
-    "subtitle": "Committed to excellence and innovation.",
-    "cta":"Let's Chat",
-    "ourStoryTitle": "Our Story",
-    "ourStoryText": "Founded in 2024, our journey started with a vision to transform the industry. We are committed to delivering excellence in every project.",
-    "ourMissionTitle": "Our Mission",
-    "ourMissionText": "Our mission is to empower small businesses through innovative solutions, integrity, and a passion for success.",
-    "ourValuesTitle": "Our Values",
-    "ourValuesText": "We are driven by our core values of excellence, integrity, and innovation. We believe in creating lasting relationships with our clients and delivering exceptional results.",
-    "ourPhilosophyTitle": "Our Philosophy",
-    "ourPhilosophyText": "We believe in a personalized approach that combines cutting-edge technology with an unwavering commitment to quality. Every project is a testament to our passion and vision for a better future.",
-    "ourApproachTitle": "Our Approach",
-    "ourApproachText": "We partner closely with our clients, taking the time to understand their unique needs. By crafting bespoke solutions, we ensure lasting impact and measurable success.",
-    "contactTitle": "Contact Us",
-    "contactSubtitle": "We'd love to hear from you! Reach out and let’s start a conversation."    
-  }
+    "AboutUs": {
+      "title": "About WEDIM AI",
+      "subtitle": "Championing human intelligence over automation.",
+      "cta": "Get in Touch",
+      "ourStoryTitle": "Our Story",
+      "ourStoryText": "Founded with a vision to reclaim the human mind, WEDIM AI was born out of a desire to counterbalance the rapid rise of artificial intelligence. Our journey began by putting humanity first.",
+      "ourMissionTitle": "Our Mission",
+      "ourMissionText": "Our mission is to encourage critical thinking and creativity, empowering individuals to harness technology without losing their human touch.",
+      "ourValuesTitle": "Our Values",
+      "ourValuesText": "We value human intuition, creativity, and integrity. We believe that technology should serve humanity—not replace it.",
+      "ourPhilosophyTitle": "Our Philosophy",
+      "ourPhilosophyText": "We believe in striking a balance between leveraging technology and preserving the unique qualities of human thought. Every initiative is a step toward a more thoughtful future.",
+      "ourApproachTitle": "Our Approach",
+      "ourApproachText": "Through community engagement, education, and innovative strategies, we inspire a culture that prioritizes human intellect in the digital age.",
+      "contactTitle": "Contact Us",
+      "contactSubtitle": "We'd love to hear from you! Reach out and let’s discuss how we can promote human thinking together."
+    }  
 }

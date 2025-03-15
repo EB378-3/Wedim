@@ -272,7 +272,7 @@ const Contact = () => {
                 >
                   <PhoneIcon sx={{ color: theme.palette.warning.main, fontSize: 24 }} />
                   <Link
-                    href="tel:+358442413840"
+                    href="tel:+35800000000"
                     underline="none"
                     sx={{
                       fontSize: "0.875rem",
@@ -280,7 +280,7 @@ const Contact = () => {
                       "&:hover": { color: theme.palette.warning.light },
                     }}
                   >
-                    +358 44 241 3840
+                    +358 00000000
                   </Link>
                 </Box>
                 <Box
@@ -293,7 +293,7 @@ const Contact = () => {
                 >
                   <EmailIcon sx={{ color: theme.palette.warning.main, fontSize: 24 }} />
                   <Link
-                    href="mailto:ekoforge@gmail.com"
+                    href="mailto:eric.benni@syk.fi"
                     underline="none"
                     sx={{
                       fontSize: "0.875rem",
@@ -301,7 +301,7 @@ const Contact = () => {
                       "&:hover": { color: theme.palette.warning.light },
                     }}
                   >
-                    ekoforge@gmail.com
+                    eric.benni@syk.fi
                   </Link>
                 </Box>
                 <Box
@@ -317,7 +317,7 @@ const Contact = () => {
                     variant="body2"
                     sx={{ fontSize: "0.875rem", color: theme.palette.text.primary }}
                   >
-                    EkoForge 
+                    Wedim SYK 
                   </Typography>
                 </Box>
               </MotionBox>

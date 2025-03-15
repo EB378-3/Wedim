@@ -42,13 +42,22 @@ const Footer = () => {
           <Grid item xs={12} md={4}>
             <Box sx={{ mb: 2 }}>
               <Link component={NextLink} href={`/`} underline="none">
-                <NextImage
-                  src="/Logo.svg" // Replace with your aircraft rental logo
-                  alt="Logo"
-                  width={250}
-                  height={50}
-                  style={{ display: "block", }}
-                />
+              <Typography 
+                variant="h2"
+                component="h1"
+                sx={{
+                  color: theme.palette.fourth.light,
+                  fontWeight: "bold",
+                  pl: { xs: 2, sm: 0,},
+                  fontSize: "3rem",
+                  lineHeight: 1,
+                  textShadow: "-3px 2px 10px rgba(255, 255, 255, 0.41)",
+                  display: "flex",
+                  flexDirection: "column",
+                  justifyContent: "left",
+                  width: "100%",
+                }}>
+                  WEDIM AI</Typography>
               </Link>
             </Box>
             <Typography variant="body2" sx={{ color: theme.palette.info.contrastText }}>
@@ -214,7 +223,7 @@ const Footer = () => {
             color: theme.palette.info.contrastText,
           }}
         >
-          © {currentYear} EkoForge Oy {t("rights")}
+          © {currentYear} Wedim SYK {t("rights")}
           <Box component="span" sx={{ ml: 2 }}>
             <IconButton
               color="inherit"

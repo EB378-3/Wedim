@@ -1,29 +1,40 @@
 {
   "NavbarLinks": {
-    "navLink1": "Mitä asiakkaamme sanovat meistä",
+    "navLink1": "Onko se todella tärkeää?",
     "navLink2": "Yhteystiedot",
     "navLink3": "Verkkosivuesimerkit",
-    "navLink4": "Varaa tapaaminen"
+    "navLink4": "Meistä"
   },
   "HomePage": {
-    "simple": "Älykäs.",
-    "elegant": "Moderni.",
-    "effective": "Voimakas.",
-    "HeroSubTitle": "Verkkosivut ja digitaaliset ratkaisut, jotka auttavat startup-yrityksiä ja pk-yrityksiä lanseeraamaan, kasvamaan ja menestymään – nopeasti.",
-    "CTA": "Varaa myyntipuhelu",
-    "Contact Us": "Ota yhteyttä",
-    "disrupt": "Miten tämä toimii?",
-    "StepOne": "Vaihe 1: Valitse brändi yrityksellesi",
-    "StepTwo": "Vaihe 2: Hanki tehokas verkkosivusto tai sovellus",
-    "StepThree": "Vaihe 3: Saavuta asiakkaasi tehokkaalla SEO:lla",
-    "StepOneText": "Jos et ole vielä valinnut, autamme sinua löytämään brändin, joka resonoi yrityksesi ja asiakkaidesi kanssa.",
-    "StepTwoText": "Suunnittelemme ja kehitämme verkkosivuston, joka on räätälöity yrityksesi ja asiakkaidesi tarpeisiin.",
-    "StepThreeText": "Autamme sinua tavoittamaan asiakkaasi tehokkailla hakukoneoptimoinnin ja digitaalisen markkinoinnin strategioilla.",
-    "Call-To-Action": "Siirry verkkoon ja ala voittaa jo tänään",
-    "Call-To-Action-Sub": "Asiakkaat etsivät sinua juuri nyt. Varmistetaan, että he löytävät sinut.",
-    "Book Now": "KLIKKAA TÄSTÄ JA ALOITA!",
-    "Call-To-Action-Note": "Lue lisää meistä",
-    "why": "> Miksi tarvitsen verkkosivut? <"
+      "hero": {
+        "title": "Mieli tekoälyn yläpuolella",
+        "subtitle": "Inhimillisen ajattelun arvo",
+        "description": "Tämän kampanjan tarkoituksena on edistää inhimillistä ajattelua ja välttää liiallista riippuvuutta tekoälystä.",
+        "imageAlt": "Tekoälyn abstrakti kuvaus"
+      },
+      "grid": {
+        "first": {
+          "text1": "Maailmassa, jota koneet yhä enemmän hallitsevat, ihmismieli on suurin voimavaramme. Hyödynnä luovuutta ja kriittistä ajattelua.",
+          "text2": "Liity mukaan palauttamaan älyllistä tulevaisuuttamme. Tue liikettä, joka arvostaa inhimillistä kekseliäisyyttä ja ajattelun voimaa.",
+          "imageAlt": "Kampanjan kohokohta"
+        },
+        "second": {
+          "text": "Liity mukaan palauttamaan älyllistä tulevaisuuttamme. Tue liikettä, joka arvostaa inhimillistä kekseliäisyyttä ja ajattelun voimaa.",
+          "imageAlt": "Kampanjan kohokohta"
+        }
+      },
+      "content": {
+        "paragraph1": "Maailmaa valtaa yhä enemmän tekoäly. Tämä on saatava pysäytettyä. Inhimillinen ajattelukyky katoaa nopeammin kuin uskommekaan. Tee selvä valinta. Rajoita tekoälyn käyttöä. Älä anna tekoälyn vallata mieltäsi.",
+        "paper1": {
+          "alt": "Robottikuvaus",
+          "caption": "Robotit korvaavat ihmisten tehtäviä."
+        },
+        "paragraph2": "Joka päivä tekoäly korvaa ihmisten aikoinaan tekemät työt. Vuoteen 2025 mennessä 2 miljoonaa tehtaassa tehtävää työtä voi kadota. Vuoteen 2030 mennessä 375 miljoonan ihmisen on ehkä vaihdettava alaa tekoälyn kehityksen vuoksi. 75 prosenttia toimitusjohtajista uskoo, että tekoäly muuttaa heidän liiketoimintaansa — monet työt katoavat.",
+        "paper2": {
+          "alt": "Ihminen vs. tekoäly",
+          "caption": "Ihmiset palauttavat kriittisen ajattelukykynsä."
+        }
+      }    
   },
   "Contact": {
     "title": "Ota yhteyttä",
@@ -37,10 +48,10 @@
     "title": "Asiakaspalautteet"
   },
   "Footer": {
-    "aboutText": "Teemme yhteistyötä yrittäjien kanssa luodaksemme kauniita verkkokokemuksia asiakkaille.",
+    "aboutText": "Herätämme ihmiset oman mielensä voimaan.",
     "navigation": "Navigointi",
     "navLink1": "Varaa tapaaminen",
-    "navLink2": "Asiakaspalautteet",
+    "navLink2": "Onko se aikeasti tärkeää?",
     "navLink3": "Ota yhteyttä",
     "navLink4": "Verkkosivuesimerkit",
     "login": "Kirjaudu sisään",
@@ -92,20 +103,21 @@
     "role": "Rooli"
   },
   "AboutUs": {
-    "title": "Tietoa meistä",
-    "subtitle": "Sitoutunut huippuosaamiseen ja innovaatioon.",
-    "cta": "Keskustellaan",
-    "ourStoryTitle": "Tarinaamme",
-    "ourStoryText": "Perustettu vuonna 2024, matkallamme oli visio muuttaa alaa. Olemme sitoutuneet tarjoamaan huippuosaamista jokaisessa projektissa.",
-    "ourMissionTitle": "Missiomme",
-    "ourMissionText": "Tavoitteenamme on vahvistaa pk-yrityksiä innovatiivisilla ratkaisuilla, rehellisyydellä ja intohimolla menestykseen.",
+    "title": "Tietoa WEDIM AI:sta",
+    "subtitle": "Ihmisen älykkyyden puolesta automaation sijaan.",
+    "cta": "Ota Yhteyttä",
+    "ourStoryTitle": "Meidän Tarinamme",
+    "ourStoryText": "WEDIM AI perustettiin visioon palauttaa inhimillinen ajattelu vastapainona tekoälyn nopealle nousulle. Tarinamme sai alkunsa halusta asettaa ihmiset etusijalle.",
+    "ourMissionTitle": "Meidän Missiomme",
+    "ourMissionText": "Missiomme on rohkaista kriittistä ajattelua ja luovuutta, antaen ihmisille voimaa hyödyntää teknologiaa menettämättä inhimillistä kosketustaan.",
     "ourValuesTitle": "Arvomme",
-    "ourValuesText": "Meitä ohjaavat ydinperiaatteemme: huippuosaaminen, rehellisyys ja innovaatio. Uskomme vahvoihin asiakassuhteisiin ja erinomaisten tulosten tuottamiseen.",
+    "ourValuesText": "Arvostamme inhimillistä intuitiota, luovuutta ja rehellisyyttä. Uskomme, että teknologian tulisi palvella ihmiskuntaa — ei korvata sitä.",
     "ourPhilosophyTitle": "Filosofiamme",
-    "ourPhilosophyText": "Uskomme henkilökohtaiseen lähestymistapaan, jossa yhdistyvät huipputeknologia ja tinkimätön sitoutuminen laatuun. Jokainen projekti on osoitus intohimostamme ja visiostamme parempaa tulevaisuutta varten.",
+    "ourPhilosophyText": "Uskomme tasapainon löytämiseen teknologian hyödyntämisen ja inhimillisen ajattelun ainutlaatuisten ominaisuuksien säilyttämisen välillä. Jokainen aloite vie meitä kohti harkitumpaa tulevaisuutta.",
     "ourApproachTitle": "Lähestymistapamme",
-    "ourApproachText": "Teemme tiivistä yhteistyötä asiakkaidemme kanssa ja syvennymme heidän tarpeisiinsa. Räätälöimällä ratkaisut varmistamme pysyvän vaikutuksen ja mitattavan menestyksen.",
-    "contactTitle": "Ota yhteyttä",
-    "contactSubtitle": "Haluaisimme kuulla sinusta! Ota yhteyttä ja aloitetaan keskustelu."
+    "ourApproachText": "Yhteisöjen osallistumisen, koulutuksen ja innovatiivisten strategioiden avulla inspiroimme kulttuuria, jossa ihmisen älykkyys on digitaalisella aikakaudella etusijalla.",
+    "contactTitle": "Ota Yhteyttä",
+    "contactSubtitle": "Haluamme kuulla sinusta! Ota yhteyttä, niin keskustellaan, kuinka voimme yhdessä edistää inhimillistä ajattelua."
   }
 }
+  
